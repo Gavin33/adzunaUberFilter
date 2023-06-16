@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+filter.js
+susFilter.js
+bin/
+lib/
+node_modules/
+pyvenv.cfg
+text.txt
+
