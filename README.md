@@ -2,7 +2,7 @@ Intro:
 This is the result of months of job board fomo. I always wonder, am I looking in the right places? But in the end, I always come to the conclusion that I'm only one person,
 I can only look so many places. Then it hit me. I'm one person... with three different certifications in web development. Which means I'm not just one person. I'm
 one person and a keyboard. And I decided to use the keyboard. I figured if I didn't have to sift through the 100+ different senior level positions, it would take me seconds
-to look through all of the positions I actually qualify for in a given job board. So I started writing a program that could filter more than what job boards currently offer.
+to look through all of the positions I actually qualify for in a given job board. That way I could look through two at once. So I started writing a program that could filter more than what job boards currently offer.
 
 Description:
 This is a more advanced filter than the advanced filter already offered by Adzuna. Why make this for Adzuna specifically? Adzuna offers the most information about jobs through
